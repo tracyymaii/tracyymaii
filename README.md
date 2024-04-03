@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tracyymaii
-- 👀 I’m interested in music, social media platforms, philosophy, and computer science.
-- 🌱 I’m currently learning Java, data systems and algorithms.
-- 💞️ I’m looking to collaborate on any projects.
+- 👀 I’m interested computer science and philsophy, specifically the intersection represented through model alignment.  
+- 🌱 I’m currently learning about cybersecurity, web development, and systems design.
+- 💞️ I’m looking for career opportunities and to collaborate on any projects.
 - 📫 How to reach me: tracytmai@outlook.com
 
 <!---
