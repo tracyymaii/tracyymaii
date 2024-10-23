@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tracyymaii&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tracyymaii&icon=9&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
